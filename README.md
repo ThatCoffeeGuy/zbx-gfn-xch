@@ -19,7 +19,7 @@ prerequisites (assuming you're using Ubuntu 20.04):
 
 To install potentially missing but required packages:
 ```
-sudo apt install jq genius 
+sudo apt install jq genius curl
 ```
 
 ## Installation
