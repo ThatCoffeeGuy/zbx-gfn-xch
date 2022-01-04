@@ -6,7 +6,7 @@ Chia Grafana dashboard using Zabbix and Bash, featuring showing node status, siz
 
 ## Disclamer
 
-This was going to be just a private repository but after I wrote a installation guide I decided to make it public.
+This was going to be just a private repository but after I wrote an installation guide I decided to make it public.
 
  I am aware that this is nowhere near nice looking or practical - I might improve it over time.
 
