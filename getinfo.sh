@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 cd /home/<user>/chia-blockchain; . ./activate;
 chia farm summary > /tmp/farmsummary
 chia show -s > /tmp/chiashow
