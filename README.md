@@ -1,10 +1,15 @@
 # zbx-gfn-xch
 
+Chia Grafana dashboard using Zabbix and Bash, featuring showing node status, size of plots, amount of plots, USD currency, wallet to USD, wallet to HUF, etc. 
+
+![alt text](https://i.imgur.com/yYx44ml.png)
+
 ## Disclamer
 
-This was going to be just a private repo but I thought I would make it public. I am aware that this is nowhere near nice looking or practical - I might improve it over time as I'm planning to make an automated installed for it. 
+This was going to be just a private repository but after I wrote a installation guide I decided to make it public.
 
-Zabbix-Grafana-Chia-Dashboard 
+ I am aware that this is nowhere near nice looking or practical - I might improve it over time.
+
 
 ## Prerequisites
 prerequisites (assuming you're using Ubuntu 20.04):
