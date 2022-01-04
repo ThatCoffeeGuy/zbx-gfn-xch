@@ -26,7 +26,7 @@ sudo apt install jq genius curl
 
 1.) Copy the content of ```zabbix_agentd.conf``` to the ending of your ```/etc/zabbix/zabbix_agentd.conf```
 
-2.) Put ```getinfo.sh```, ```calculateusd.sh``` and ```calculatehuf.sh``` to your home or modify the locations accordingly
+2.) Put ```getinfo.sh```, ```calculateusd.sh``` and ```calculatehuf.sh``` to your home or modify the locations accordingly. Don't forget to ```chmod +x``` on them!
 
 3.) Copy the content of ```crontab``` to your own crontab
 
