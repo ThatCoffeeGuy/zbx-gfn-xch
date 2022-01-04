@@ -12,7 +12,7 @@ This was going to be just a private repository but after I wrote a installation 
 
 
 ## Prerequisites
-prerequisites (assuming you're using Ubuntu 20.04):
+assuming you're using Ubuntu 20.04:
 - Latest Grafana
 - Zabbix 5.0 LTS agent and server
 - Running chia CLI (daemon, farmer, wallet)
